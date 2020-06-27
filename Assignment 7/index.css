@@ -1,0 +1,29 @@
+.bg{
+    background-color: #ffffff;
+}
+.panelBody{
+    padding: 15px ;
+    background-color: 	#8c7373 ;
+    border-radius: 15px ;
+    width: 320px !important;
+    box-shadow: 0 0 10px #F4E552 !important;
+}
+.rowPad{
+    padding: 5px; 
+}
+.inputCss{
+    font-size: 12pt !important;
+    text-align: right !important;
+}
+.resultCss{
+    font-size: 15pt !important;
+    text-align: right !important;
+    font-weight: bold !important;
+    color: 	#8c7373 !important;
+}
+.heading{
+    color: #ffffff ;
+}
+.es{
+    color: #27B627 ;
+}
